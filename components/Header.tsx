@@ -64,7 +64,7 @@ function Header(props: HeaderComponent) {
       <header className="w-full flex flex-col py-5 bg-[rgba(35,46,82,1)]">
 
         <div className="flex justify-between items-center p-4">
-          <a href="/" className="text-2xl text-white">Blogify</a>
+          <a href="/" className="text-2xl text-white">Raza Blogging</a>
           <div className="flex space-x-4">
             <button
               type="button"
