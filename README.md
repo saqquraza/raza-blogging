@@ -1,28 +1,11 @@
 # Getting Started
 
-
-## Demo
-
-### Home page
-![Home page](/demo/home.png)
-
-### List page
-![Home page](/demo/list.png)
-
-### Reading page
-![Reading page](/demo/reading.png)
-
-### Tag page
-![Tag page](/demo/tag.png)
-
-
 ### Project folder
 ```bash
 .
 ├── blogify.png
 ├── CODE_OF_CONDUCT.md
 ├── components
-│   ├── Blockquote.tsx
 │   ├── Footer.tsx
 │   ├── Header.tsx
 │   ├── Nav.tsx
@@ -38,7 +21,6 @@
 │   ├── list.png
 │   ├── reading.png
 │   └── tag.png
-├── LICENSE
 ├── next.config.js
 ├── next-env.d.ts
 ├── package.json
