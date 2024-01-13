@@ -1,6 +1,6 @@
 # Getting Started
 
-Blogify is MIT open-source nextjs and tailwind css based template to build a blog with markdown.
+
 ## Demo
 
 ### Home page
@@ -67,27 +67,22 @@ Blogify is MIT open-source nextjs and tailwind css based template to build a blo
 ## Start with blogify
 
 ```bash
-
 ## Step 1
-
-git clone https://github.com/frontendweb3/blogify.git
-
-## Step 2
 cd blogify
 
-## Step 3
-pnpm install
+## Step 2
+npm install
 # or
 yarn install
 
-## Step 4
-pnpm dev
+## Step 3
+npm run dev
 # or
 yarn dev
 ```
 
 ## Upcoming change
-- Adding content layer support
+- Adding firebase store
 - Search bar support
 - Adding dark mode theme support
 - SEO support 
